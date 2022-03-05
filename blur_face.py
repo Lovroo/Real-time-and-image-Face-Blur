@@ -3,7 +3,6 @@ from pyimagesearch.face_blurring import anonimen_obraz_simple
 import numpy as np
 import argparse
 import cv2
-import os
 
 # sestavi argument in ga razčleni
 ap = argparse.ArgumentParser()
